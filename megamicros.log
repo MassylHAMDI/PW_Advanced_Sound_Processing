@@ -1,4 +1,0 @@
-[35;21m2023-11-13 12:44:10,868 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [0m
-[35;21m2023-11-13 12:44:10,872 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (TimeoutError): [0m
-[35;21m2023-11-13 12:44:10,885 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
-[35;21m2023-11-13 12:44:10,889 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
